@@ -7,17 +7,7 @@ Inspiration for the React App - https://codesandbox.io/p/sandbox/react-login-for
 - Node.js (v16 or v18 recommended)
 - The auth backend running with CORS enabled for your frontend origin
 
-### Local development
-
-1. Install dependencies:
-   ```bash
-   npm install
-   ```
-
-2. Start the backend.
-
-
-4. Start the front end using Docker below:
+Start the front end using Docker below:
 
 ### Docker
 

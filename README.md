@@ -1,5 +1,3 @@
-Inspiration for the React App - https://codesandbox.io/p/sandbox/react-login-form-h6rom
-
 ## How to run
 
 ### Prerequisites
